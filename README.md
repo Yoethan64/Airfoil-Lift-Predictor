@@ -1,5 +1,6 @@
 # Airfoil-Lift-Predictor
 Predicts lift coefficient of any handrawn/custom airfoil using a resnet50 model. Mean absolute error of the lift coefficient is 0.1058
+
 How to execute:
 1. Open aeroo.ipynb in Googel Colab.
 2. Run all the cells in the notebook.
